@@ -108,55 +108,19 @@ This is not altruism. This is architecture.
 
 ## VI. The Ecosystem
 
-We don't build one app. We build the replacement layer.
+We build the replacement layer. Every extractive solution gets an aligned alternative.
 
-**Every extractive solution on Solana gets an aligned alternative:**
+Every app burns $asdfasdfa. Every fee returns to holders.
 
-| Extractive | → | Aligned | Burns |
-|------------|---|---------|-------|
-| pump.fun | → | **Ignition** | 100% |
-| Dexscreener | → | **HolDex** | 100% |
-| Gas services | → | **GASdf** | 100% |
-| Prediction markets | → | **ASDForecast** | 100% |
-
-Every app we build burns $asdfasdfa.
-Every fee from every app returns to holders.
-
-The more apps, the more burns.
-The more burns, the more value.
-The more value, the more builders.
-The more builders, the more apps.
+More apps → more burns → more value → more builders → more apps.
 
 **Flywheel.**
 
----
-
-## VII. The Layers
-
-```
-┌─────────────────────────────────────────┐
-│  LAYER 4: CONSUMER APPS                 │
-│  ASDForecast · Ignition · [Future]      │
-│  Predictions, launches, trading, social │
-├─────────────────────────────────────────┤
-│  LAYER 3: INTELLIGENCE                  │
-│  HolDex: K-Score · E-Score · I-Score    │
-│  Verifiable metrics, signed data        │
-├─────────────────────────────────────────┤
-│  LAYER 2: INFRASTRUCTURE                │
-│  GASdf: Gasless transactions            │
-│  Pay with any token, still burns $asdf  │
-├─────────────────────────────────────────┤
-│  LAYER 1: SOLANA                        │
-│  Raw blockchain                         │
-└─────────────────────────────────────────┘
-
-Every layer above L1 burns $asdfasdfa.
-```
+See [ECOSYSTEM.md](./ECOSYSTEM.md) for architecture details.
 
 ---
 
-## VIII. The Formula
+## VII. The Formula
 
 Quality is measured, not promised.
 
@@ -180,30 +144,24 @@ Geometric mean punishes imbalance.
 
 ---
 
-## IX. The Ratio
+## VIII. The Ratio
 
-Nature optimizes with φ (phi). So do we.
+We use φ (phi) for internal ratios. Not because it's magic—because it's consistent.
 
 ```
 φ = 1.618033988749895...
 
 φ⁻¹ = 61.8%
 φ⁻² = 38.2%
-φ⁻³ = 23.6%
-φ⁻⁴ = 14.6%
 ```
 
-These ratios appear everywhere:
-- Context allocation: 61.8% active / 23.6% research / 14.6% overhead
-- Quality thresholds: 80 / 60 / 40 / 25
-- Conviction weights: φ for builders, 1/φ for extractors
+These ratios guide thresholds and weights. They could be different numbers. We chose φ for aesthetic consistency, not mystical properties.
 
-Not arbitrary. Mathematical.
-Not decreed. Discovered.
+The burn is 100%. That's the only number that matters.
 
 ---
 
-## X. The Paradox
+## IX. The Paradox
 
 **Open source as moat.**
 
@@ -222,7 +180,7 @@ If your fork burns → you validate our model. Thank you.
 
 ---
 
-## XI. The Anti-Principles
+## X. The Anti-Principles
 
 We are defined by what we reject:
 
@@ -236,34 +194,17 @@ We are defined by what we reject:
 
 ---
 
-## XII. The Creative Destruction
+## XI. The Creative Destruction
 
-Schumpeter meets Solana.
+The fire is not destruction—it's transformation. Burns remove supply. Scarcity creates value. Value attracts builders. Builders create utility. Utility drives burns.
 
-The fire is not destruction—it's transformation.
-38.2% of everything returns to the void.
-But from the void, value emerges.
-
-```
-Creation (φ) ←→ Destruction (1/φ²)
-        ↓           ↓
-    New tokens    Weak hands filtered
-        ↓           ↓
-    Attention     Supply contracts
-        ↓           ↓
-    └─────→ REBIRTH ←─────┘
-              (φ²)
-```
-
-The dog in the flames understands:
-The fire is not destroying him.
-The fire is warming him.
+The dog in the flames understands: the fire is not destroying him. The fire is warming him.
 
 **This is fine.**
 
 ---
 
-## XIII. The Choice
+## XII. The Choice
 
 Every Solana user faces the same choice:
 
@@ -284,25 +225,22 @@ Network effects compound from rational choices.
 
 ---
 
-## XIV. The Endgame
+## XIII. The Endgame
 
 Today: $asdfasdfa is an experiment.
 
-Tomorrow: GASdf becomes default gas abstraction.
-Every Solana transaction through GASdf = burn.
+The thesis: if GASdf becomes the default gas abstraction, every Solana transaction through it burns. If HolDex becomes the standard for token evaluation, every K-Score query burns.
 
-After: HolDex becomes standard for token evaluation.
-Every K-Score query = burn.
-Every app integrating K-Score = burns.
+We're not predicting this future. We're building toward it.
 
-Endgame: The aligned layer on Solana.
+The goal: an aligned layer on Solana.
 Not competing with Solana.
 Competing with extraction ON Solana.
 Making extraction obsolete.
 
 ---
 
-## XV. The Invitation
+## XIV. The Invitation
 
 We don't ask you to believe. We ask you to verify.
 
@@ -321,7 +259,7 @@ We don't ask you to believe. We ask you to verify.
 
 ---
 
-## XVI. The Conclusion
+## XV. The Conclusion
 
 ```
                     ┌───────────┐

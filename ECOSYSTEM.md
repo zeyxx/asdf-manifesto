@@ -240,33 +240,33 @@ if (score.k < 40) {
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-## Roadmap
+## Development Status
 
-### Phase 1: Foundation (Current)
-- [x] GASdf core infrastructure
-- [x] HolDex K-Score engine
-- [ ] Ignition fair launch
-- [ ] ASDForecast beta
+**Active:**
+- GASdf core infrastructure
+- HolDex K-Score engine
 
-### Phase 2: Expansion
-- [ ] Mobile apps
-- [ ] Additional consumer apps
-- [ ] Cross-chain bridges (burning on every chain)
+**In Development:**
+- Ignition fair launch
+- ASDForecast beta
 
-### Phase 3: Standard
-- [ ] K-Score as Solana ecosystem standard
-- [ ] GASdf as default gas layer
-- [ ] Full extractive solution replacement
+**Future directions** (if the model proves itself):
+- Mobile apps
+- Additional consumer apps
+- Cross-chain burns
+- Broader ecosystem integration
 
 ## Repositories
 
-| Repository | Status | License |
-|------------|--------|---------|
-| [GASdf](https://github.com/asdfasdfa/gasdf) | Active | MIT |
-| [HolDex](https://github.com/asdfasdfa/holdex) | Active | MIT |
-| asdf-manifesto | Active | MIT |
-| Ignition | Development | MIT |
-| ASDForecast | Development | MIT |
+All code is MIT licensed and open source.
+
+| Component | Status |
+|-----------|--------|
+| GASdf | Active |
+| HolDex | Active |
+| asdf-manifesto | This document |
+| Ignition | In development |
+| ASDForecast | In development |
 
 ---
 

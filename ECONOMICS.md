@@ -175,22 +175,19 @@ When a user pays fees in a token other than $asdfasdfa:
 - **Universal deflation**: Even users who never hold $asdfasdfa contribute to burns
 - **Ecosystem tax**: Using any ecosystem app = burning $asdfasdfa
 
-## The φ (Phi) Ratios
+## Internal Ratios
 
-While the burn is 100%, internal measurements use golden ratio proportions:
-
-### Quality Thresholds
+While the burn is 100%, internal measurements use φ (phi) proportions for consistency:
 
 ```
 φ = 1.618033988749895
-
-Excellent: 80 (≈ 100 × φ⁻¹ × φ⁻¹)
-Good:      60 (≈ 100 × φ⁻¹)
-Warning:   40 (≈ 100 × φ⁻²)
-Critical:  25 (≈ 100 × φ⁻³)
+φ⁻¹ = 61.8%
+φ⁻² = 38.2%
 ```
 
-### Score Weighting
+These ratios guide thresholds and weights. They could be different numbers. We chose φ for aesthetic consistency across the system, not for any mystical properties.
+
+### K-Score Formula
 
 ```
 K = 100 × ∛(D × O × L)
@@ -199,15 +196,6 @@ Geometric mean ensures:
 - No single metric can compensate for failure in another
 - Balance is rewarded
 - Extremes are punished
-```
-
-### Context Allocation (for development)
-
-```
-Active work:  61.8% (φ⁻¹)
-Research:     23.6% (φ⁻² × φ⁻¹)
-Overhead:     14.6% (φ⁻² × φ⁻²)
-Total:        100%
 ```
 
 ## Anti-Ponzi Properties
@@ -318,32 +306,15 @@ True. But consider:
 
 ## Long-Term Dynamics
 
-### Year 1-5: Accumulation Phase
+The model predicts three phases if adoption continues:
 
-```
-- Ecosystem apps launch and grow
-- Burns begin compounding
-- Network effects establish
-- Builder community forms
-```
+**Accumulation:** Ecosystem apps launch. Burns begin compounding. Network effects establish. Builder community forms.
 
-### Year 5-10: Maturation Phase
+**Maturation:** GASdf and K-Score gain adoption. Burns reach significant volume. Supply contracts.
 
-```
-- GASdf becomes standard gas layer
-- K-Score becomes standard metric
-- Burns reach significant volume
-- Supply noticeably contracted
-```
+**Equilibrium:** Ecosystem becomes infrastructure. Burns steady. Supply stabilizes at lower level.
 
-### Year 10+: Equilibrium Phase
-
-```
-- Ecosystem is infrastructure
-- Burns steady at high volume
-- Supply stabilized at low level
-- Value concentrated in remaining supply
-```
+We're not predicting when these phases occur—only that the model tends toward this progression with continued usage.
 
 ## Mathematical Model
 
