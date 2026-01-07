@@ -256,6 +256,16 @@ if (score.k < 40) {
 - Cross-chain burns
 - Broader ecosystem integration
 
+## Current Architecture
+
+Honest state: single maintainer, shared signing key, Helius RPC.
+
+This is bootstrap phase. Simplicity enables velocity. The code is open source—anyone can run the infrastructure today.
+
+Direction: multi-sig signing → federated nodes → on-chain verification.
+
+Timeline: when ready, not when promised.
+
 ## Repositories
 
 All code is MIT licensed and open source.
